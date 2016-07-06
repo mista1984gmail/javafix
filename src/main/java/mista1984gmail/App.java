@@ -14,7 +14,7 @@ public class App extends Application
     }
 
     public void start(Stage primaryStage) throws Exception {
-        View view1=new HelloView();
+        /*View view1=new HelloView();
         View view2 =new MainViev();
 
         Pane pane1=view1.getPane();
@@ -26,7 +26,7 @@ public class App extends Application
 
         Scene scene=new Scene(pane,500,500);
         primaryStage.setScene(scene);
-        primaryStage.show();
+        primaryStage.show();*/
 
     }
 }
